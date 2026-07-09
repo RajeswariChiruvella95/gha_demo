@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "GitHub Actions Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo Building application..."
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
